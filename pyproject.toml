@@ -16,7 +16,7 @@ dependencies = [
     "pytest", 
 	"numpy",
     "matplotlib",
-    "sklearn"
+    "scikit-learn"
 ]
 
 [project.urls]
